@@ -2,7 +2,7 @@
 Miner and bitstreams for VCU1525 
 
 keccak and keccak-c up to 12.6 GH/s
-tribus up to 1.8 GH/s
+tribus up to 1.95 GH/s
 
 Binary release
 
