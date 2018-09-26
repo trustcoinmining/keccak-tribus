@@ -4,10 +4,7 @@ Miner and bitstreams for VCU1525
 keccak and keccak-c up to 12.6 GH/s
 tribus up to 1.95 GH/s
 
-Binary release
-
-https://github.com/digitalcruncher/keccak-tribus/releases/download/2/vcu1525-keccak-tribus-variable.tar.gz
-
+Binary release is avalable upon request
 
 Source code of ccminer fork
 
